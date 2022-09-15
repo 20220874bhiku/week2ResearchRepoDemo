@@ -1,10 +1,6 @@
 # Bhikubhai Patel
 
-<!-- how to comment in markdown -->
-unsecret
-
-## What is Scratch? 
-scratch is a visual programming language developed a MIT We used it for an intro to programming.
+Hey! this is my repository from the studies that I have done in whitecliffe
 
 find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
 scratch is a visual programming language developed at MIT We used it for an intro to programming.
