@@ -1,1 +1,70 @@
 this is my it support assessment 
+
+Technical Support Fundamentals (IT5010)
+Introduction: our Company Name ‘Spring computers’
+having its office in Wellington intends to extend our
+office site further to Auckland and two other. As an
+initial extension management advised to design a
+computer network solution for the new office in
+Auckland which should be compatible to fundamental
+concepts of IT Technical Support with a view of further
+development of two more offices.
+Requirements: The design should consist of at least
+four computers, printer, a software tool to monitor
+and manage call logs, customer support and taking
+care of communication between sites are secured.
+In addition, the design prioritisation system for
+handling support calls, the budget should not cross
+$20,000.
+Networking Topology Suggested : Ring Topology – it is
+the best and simple .WE also use it in our school .A ring
+network is a network topology in which each node
+connects to exactly two other nodes, forming a single
+continuous pathway for signals through each node ,
+with each node along the way handling every packet.
+Handling the support call prioritisation: Range of
+factors to consider.
+ Problems: Interruptions in service to customers.
+ Request: Asking for services that are part of the
+HELP DESK’s advertised list of services.
+ Questions: Queries about how to perform specific
+tasks using technology.
+ WORK ITEMS: You have to be able to prioritise work
+planned and unplanned, against everything else
+going on in your Help Desk.
+ Help Desk: Improvement or call elimination
+initiatives are usually carried out by the second level
+of support. If you are working on the second level of
+support, make sure you give call elimination work
+the priority it deserves.
+ Important : Following the guidelines of ITSM ( IT
+SERVICE MANAGEMENT )prioritize the problem into
+categories of : 1. LOW
+ 2 High
+ 3 Medium and
+ 4 CRITICAL
+These categories will be incorporated into
+ticketing system of software purchased to manage
+and monitor call logs customer support.
+ Securing Communication Channel:
+ 1. Router having VPN.
+ 2. Firewall having VPN.
+ VPN – meaning virtual Private Networks. Security
+Networks are composed of 3 site: Collectively
+named – CIA.
+ CONFIDENTIALITY: Critical confidential information
+of our organisation should not be exposed to any
+unauthorised person, whether it is within our
+organisation or outside personal in transit of data,
+but we have in place barriers to protect data and
+ensuring that information is always available 24/7
+to the right recipient or recipients as and when
+required with utmost integrity.
+ INTEGRITY: Data security is the practice of
+protecting digital information from unauthorised
+access, corruption or theft throughout its entire
+lifecycle. It’s a concept that encompasses every
+aspect of information security from the physical
+security of hardware and storage devices to
+administrative and access controls as well as the
+logical security of the software applicat
